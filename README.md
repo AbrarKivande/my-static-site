@@ -5,7 +5,7 @@ This is a simple and elegant static website built using **HTML** and **CSS**, de
 ## 🔗 Live Site
 
 Check out the deployed website here:  
-[https://abarkivande.github.io/my-static-site/](https://abarkivande.github.io/my-static-site/)
+[https://abrarkivande.github.io/my-static-site/](https://abrarkivande.github.io/my-static-site/)
 
 
 ## 💡 Features
